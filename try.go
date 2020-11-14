@@ -1,4 +1,4 @@
-package main
+package try
 
 type tryCt struct {
 	Err interface{}
